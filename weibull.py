@@ -1,3 +1,5 @@
+#weibull in optimization techniques
+
 import numpy as np 
 
 lis=[]
